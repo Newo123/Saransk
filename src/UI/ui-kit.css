@@ -1,0 +1,41 @@
+.btn-form {
+  padding: 18.5px 249px;
+  background: #FF6600;
+  border: none;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  color: #E7E7E7;
+  cursor: pointer;
+}
+
+.btn-form:hover {
+  opacity: 0.9;
+}
+
+.btn-form:active {
+  opacity: 0.8;
+}
+
+.btn-buy {
+  padding: 30px 55px;
+  border: 1px solid #FF6600;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 31px;
+  color: #4E4E4E;
+  background: transparent;
+  cursor: pointer;
+}
+
+.btn-buy:hover {
+  background: #FF6600;
+  color: #ffffff;
+}
+
+.btn-buy:active {
+  background: transparent;
+  color: #4E4E4E;
+}
+
+/*# sourceMappingURL=ui-kit.css.map */

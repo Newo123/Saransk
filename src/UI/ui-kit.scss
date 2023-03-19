@@ -1,0 +1,41 @@
+@import './variebles';
+
+.btn-form {
+  padding: 18.5px 249px;
+  background: $orange;
+  border: none;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  color: #E7E7E7;
+  cursor: pointer;
+}
+
+.btn-form:hover {
+  opacity: .9;
+}
+
+.btn-form:active {
+  opacity: .8;
+}
+
+.btn-buy {
+  padding: 30px 55px;
+  border: 1px solid #FF6600;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 31px;
+  color: $black;
+  background: transparent;
+  cursor: pointer;
+}
+
+.btn-buy:hover {
+  background: $orange;
+  color: $white;
+}
+
+.btn-buy:active {
+  background: transparent;
+  color: $black;
+}
